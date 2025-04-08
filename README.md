@@ -1,3 +1,3 @@
 # Mine-Projetos
 
-*Meu primeiros projetos em C..
+*Meus primeiros projetos em C..
